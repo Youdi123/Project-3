@@ -67,7 +67,6 @@ img {
   margin: 1.5em;
 }
 .text {
-  color: black;
   font-family: Tahoma;
   margin: 1.5em;
 }
@@ -105,6 +104,17 @@ img {
     font-size: 30px;
   }
   .pic11 {
+    padding: 5px;
+    background-color: rgba(201, 76, 76, 0.3);
+    border: 2px dashed black;
+  }
+}
+@media screen and (min-width: 600px) {
+  .text {
+    padding: 2px;
+    color: black;
+  }
+  .pic22 {
     padding: 5px;
     background-color: rgba(201, 76, 76, 0.3);
     border: 2px dashed black;
