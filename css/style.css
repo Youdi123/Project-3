@@ -27,7 +27,6 @@ body {
 }
 h1 {
   font-family: Palatino Linotype;
-  color: red;
   text-align: center;
 }
 h2 {
@@ -99,4 +98,15 @@ img {
   height: 500px;
   float: right;
   align-self: center;
+}
+@media screen and (min-width: 600px) {
+  h1 {
+    color: red;
+    font-size: 30px;
+  }
+  .pic11 {
+    padding: 5px;
+    background-color: rgba(201, 76, 76, 0.3);
+    border: 2px dashed black;
+  }
 }
