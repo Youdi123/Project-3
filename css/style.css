@@ -1,0 +1,102 @@
+body {
+  background-color: #ccffcc;
+}
+#navbar ul {
+  background-color: #ff884d;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+}
+#navbar ul li {
+  display: inline-block;
+}
+#navbar ul li a {
+  padding: 15px;
+  width: 100px;
+  display: block;
+  color: yellow;
+  text-align: center;
+  font-weight: bold;
+  font-size: 17px;
+}
+#navbar ul li a:hover {
+  background-color: blue;
+  border-radius: 10px;
+  transition: 0.6s;
+}
+h1 {
+  font-family: Palatino Linotype;
+  color: red;
+  text-align: center;
+}
+h2 {
+  font-weight: 700;
+  font-family: Palatino Linotype;
+  text-align: center;
+}
+p {
+  font-weight: 600;
+  color: black;
+  margin: 1em;
+}
+img {
+  max-width: 100%;
+  border-radius: 10px;
+  align-self: center;
+  margin: 1em;
+}
+#record {
+  font-weight: bold;
+  text-decoration: underline;
+  color: #EF8FF0;
+  font-family: Arial;
+  margin: 1.5em;
+}
+#award {
+  font-weight: bold;
+  text-decoration: underline;
+  color: #EA7AEB;
+  font-family: Arial;
+  margin: 1.5em;
+}
+#activity {
+  font-weight: bold;
+  text-decoration: underline;
+  color: #E75DE8;
+  font-family: Arial;
+  margin: 1.5em;
+}
+.text {
+  color: black;
+  font-family: Tahoma;
+  margin: 1.5em;
+}
+#line {
+  margin: 3em;
+  border: 1px dotted blue;
+  font-size: 17px;
+  color: #CBD708;
+}
+#pic1 {
+  float: left;
+  width: 50%;
+  align-items: center;
+}
+#pic2 {
+  float: right;
+  width: 50%;
+  align-items: center;
+}
+.pic11 {
+  width: 400px;
+  height: 500px;
+  float: left;
+  align-self: center;
+}
+.pic22 {
+  width: 400px;
+  height: 500px;
+  float: right;
+  align-self: center;
+}
