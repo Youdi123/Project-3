@@ -128,3 +128,7 @@ img {
 .slider h2 {
   text-align: center;
 }
+.slider img {
+  width: 100%;
+  height: 300px;
+}
