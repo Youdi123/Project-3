@@ -129,8 +129,9 @@ img {
   text-align: center;
 }
 .slider img {
-  width: 375px;
-  height: 350px;
+  width: 575px;
+  height: 550px;
+  align-self: center;
 }
 #map {
   width: 600px;
