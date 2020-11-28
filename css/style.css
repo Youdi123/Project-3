@@ -120,3 +120,11 @@ img {
     border: 2px dashed black;
   }
 }
+.slider {
+  width: 80%;
+  height: 700px;
+  margin: 0 auto;
+}
+.slider h2 {
+  text-align: center;
+}
