@@ -12,4 +12,4 @@ function slide() {
   else
     i=0;
 }
-setInterval(slider,1000) 
+setInterval(slide,1000) 
