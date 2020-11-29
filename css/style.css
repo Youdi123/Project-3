@@ -130,8 +130,9 @@ img {
   width: 100%;  
 }  
 .slidercontainer {  
-   max-width: 1000px;   
-   margin: auto;  
+  max-width: 1000px;
+  position: absolute;
+  margin: auto;  
 }
 .left, .right {  
   cursor: pointer;  
