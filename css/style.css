@@ -128,10 +128,8 @@ img {
 .chicago {
   text-align: center;
 }
-.show {
-  display: none;
 }
-.show img {
+.show {
   width: 575px;
   height: 550px;
   display: block;
