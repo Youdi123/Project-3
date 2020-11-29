@@ -130,8 +130,7 @@ img {
   width: 100%;  
 }  
 .slidercontainer {  
-   max-width: 1000px;  
-   position: relative;  
+   max-width: 1000px;   
    margin: auto;  
 }
 .left, .right {  
