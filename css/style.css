@@ -121,8 +121,9 @@ img {
   }
 }
 .slider {
-   width: 100%;    
-   margin: auto;
+  width: 100%; 
+  height: 600px;
+  margin: auto;
 }
 .chicago {
   text-align: center;
