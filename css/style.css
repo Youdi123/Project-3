@@ -134,7 +134,9 @@ img {
 .show img {
   width: 575px;
   height: 550px;
-  align-self: center;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
 .left, .right {  
   cursor: pointer;  
@@ -182,8 +184,8 @@ img {
   }  
 }
 #map {
-  width: 700px;
-  height: 650px;
+  width: 600px;
+  height: 550px;
   align-self: center;
   frameborder: 0;
   display: block;
