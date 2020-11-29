@@ -125,13 +125,13 @@ img {
    position: relative;  
    margin: auto;
 }
-.slider h2 {
+.chicago {
   text-align: center;
 }
 .show {
   display: none;
 }
-.slider img {
+.show img {
   width: 575px;
   height: 550px;
   align-self: center;
