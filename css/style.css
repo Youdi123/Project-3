@@ -121,15 +121,14 @@ img {
   }
 }
 .slider {
-   max-width: 1000px;  
-   position: relative;  
+   max-width: 1000px;    
    margin: auto;
 }
 .chicago {
   text-align: center;
 }
 }
-.show {
+.slider img {
   width: 575px;
   height: 550px;
   display: block;
