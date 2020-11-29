@@ -134,9 +134,7 @@ img {
 .slider img {
   width: 575px;
   height: 550px;
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
+  align-self: center;
 }
 .left, .right {  
   cursor: pointer;  
